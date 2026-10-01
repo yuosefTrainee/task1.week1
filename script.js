@@ -1,3 +1,6 @@
+
+/* task 1 */
+
 function number(num){
     if(num === 0){
         console.log(`the number ${num} is zero`) 
@@ -45,3 +48,4 @@ console.log(leapYears(1900));
 console.log(leapYears(2000)); 
 console.log(leapYears(2004)); 
 console.log(leapYears(2005)); 
+
